@@ -3,7 +3,7 @@ import streamlit as st
 from agents import Head_Agent  
 
 # Set up the title of the application
-st.title("Chatbot 🤖: Najib + Urvashi")
+st.title("Machine Learning Chatbot🤖")
 
 # Initialize API keys
 open_ai_api_key = st.secrets["OPEN_AI_KEY"]
