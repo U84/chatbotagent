@@ -1,0 +1,7 @@
+/new_embeddings
+/old_embeddings
+*.ipynb
+*.pdf
+*.png
+open_ai_key.txt
+pinecone_api_key.txt
